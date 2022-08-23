@@ -1,4 +1,4 @@
-<img align="center" src="img/hero_banner.png">
+<img align="center" src="img/hero_banner.jpg">
 
 <hr>
 
