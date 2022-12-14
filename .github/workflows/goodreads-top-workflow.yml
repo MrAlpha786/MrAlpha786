@@ -1,4 +1,4 @@
-name: Top book 5 list from a goodreads
+name: Top 5 book list from a goodreads
 on:
   schedule: # Run workflow automatically
     # This will make it run every hour
@@ -17,5 +17,5 @@ jobs:
           goodreads_user_id: "159447401"
           shelf: "read"
           sort_by_fields: ">user_rating,>average_rating"
-          comment_tag_name: "TOP-TEN"
+          comment_tag_name: "TOP-FIVE"
           max_books_count: "5"

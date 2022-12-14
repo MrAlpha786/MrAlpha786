@@ -62,22 +62,25 @@
 <!--More Details: start-->
 
 <img src="img/more_things.png">
+</div>
 
 ### Currently I'm reading
 
 <!-- CURRENT:START -->
-- [Code: The Hidden Language of Computer Hardware and Software](https://www.goodreads.com/review/show/5163930549?utm_medium=api&utm_source=rss) by Charles Petzold (⭐️4.4)
 <!-- CURRENT:END -->
 
 ### And these are my top 5 recommendations:
 
-<!-- TOP-TEN:START -->
-<!-- TOP-TEN:END -->
+<!-- TOP-FIVE:START -->
+<!-- TOP-FIVE:END -->
 
-<!--More details: start-->
+<!--More details: end-->
+
+<div align="center">
 
 <!--Footer: start-->
 
 ---
 
 <img src="img/with_love.png">
+</div>
