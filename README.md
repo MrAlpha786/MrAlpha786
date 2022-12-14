@@ -75,7 +75,7 @@
 - [The Eternal Challenge: A Journey Through the Miraculous Qur'an](https://www.goodreads.com/review/show/5163922673?utm_medium=api&utm_source=rss) by Abu Zakariya (⭐️4.35)
 <!-- TOP-TEN:END -->
 
-<!--More Details: start-->
+<!--More Details: end-->
 
 <!--Footer: start-->
 <div align="center">
