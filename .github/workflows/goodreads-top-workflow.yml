@@ -1,4 +1,4 @@
-name: Latest book list from a goodreads
+name: Top book 5 list from a goodreads
 on:
   schedule: # Run workflow automatically
     # This will make it run every hour
@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 jobs:
   update-readme-with-goodreads-books:
-    name: Update this repo's README with what you're currently reading
+    name: Update this repo's README with your top 5 highest rated books
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -18,3 +18,4 @@ jobs:
           shelf: "read"
           sort_by_fields: ">user_rating,>average_rating"
           comment_tag_name: "TOP-TEN"
+          max_books_count: "5"
