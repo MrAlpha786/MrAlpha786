@@ -71,10 +71,13 @@
 
 ### And these are my top 5 recommendations:
 
-<!-- TOP-FIVE:START -->
-<!-- TOP-FIVE:END -->
-
-<!--More details: end-->
+<!-- TOP-TEN:START -->
+- [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/review/show/5163920324?utm_medium=api&utm_source=rss) by James Clear (⭐️4.38)
+- [The Courage to Be Disliked: How to Free Yourself, Change your Life and Achieve Real Happiness](https://www.goodreads.com/review/show/5163912949?utm_medium=api&utm_source=rss) by Ichiro Kishimi (⭐️4.01)
+- [Behave: The Biology of Humans at Our Best and Worst](https://www.goodreads.com/review/show/5163914631?utm_medium=api&utm_source=rss) by Robert M. Sapolsky (⭐️4.43)
+- [The Psychology of Money](https://www.goodreads.com/review/show/5163921048?utm_medium=api&utm_source=rss) by Morgan Housel (⭐️4.36)
+- [The Eternal Challenge: A Journey Through the Miraculous Qur'an](https://www.goodreads.com/review/show/5163922673?utm_medium=api&utm_source=rss) by Abu Zakariya (⭐️4.35)
+<!-- TOP-TEN:END -->
 
 <div align="center">
 
