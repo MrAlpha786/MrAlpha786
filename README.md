@@ -17,9 +17,6 @@
 <a href="https://linkedin.com/in/mralpha786">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
 </a>
-<a href="https://reddit.com/user/mralpha786">
-  <img src="https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white">
-</a>
 <a href="https://lichess.org/@/anon007">
   <img src="https://img.shields.io/badge/Lichess-000000.svg?style=for-the-badge&logo=Lichess&logoColor=white">
 </a>
