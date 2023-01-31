@@ -58,7 +58,7 @@
 ### Currently I'm reading
 
 <!-- CURRENT:START -->
-- [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.goodreads.com/review/show/5185699603?utm_medium=api&utm_source=rss) by Matthew Walker (⭐️4.37)
+- [Thinking, Fast and Slow](https://www.goodreads.com/review/show/5307750284?utm_medium=api&utm_source=rss) by Daniel Kahneman (⭐️4.17)
 <!-- CURRENT:END -->
 
 ### And these are my top 5 recommendations:
