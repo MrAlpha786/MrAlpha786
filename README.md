@@ -58,7 +58,7 @@
 ### Currently I'm reading
 
 <!-- CURRENT:START -->
-- [Thinking, Fast and Slow](https://www.goodreads.com/review/show/5307750284?utm_medium=api&utm_source=rss) by Daniel Kahneman (⭐️4.17)
+- [Starry Messenger: Cosmic Perspectives on Civilization](https://www.goodreads.com/review/show/5360248339?utm_medium=api&utm_source=rss) by Neil deGrasse Tyson (⭐️4.1)
 <!-- CURRENT:END -->
 
 ### And these are my top 5 recommendations:
