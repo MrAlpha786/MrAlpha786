@@ -58,7 +58,7 @@
 ### Currently I'm reading
 
 <!-- CURRENT:START -->
-- [Starry Messenger: Cosmic Perspectives on Civilization](https://www.goodreads.com/review/show/5360248339?utm_medium=api&utm_source=rss) by Neil deGrasse Tyson (⭐️4.1)
+- [The Skeptics' Guide to the Universe: How to Know What's Really Real in a World Increasingly Full of Fake](https://www.goodreads.com/review/show/5382132836?utm_medium=api&utm_source=rss) by Steven Novella (⭐️4.39)
 <!-- CURRENT:END -->
 
 ### And these are my top 5 recommendations:
