@@ -68,7 +68,7 @@
 - [Cosmos](https://www.goodreads.com/review/show/5185708367?utm_medium=api&utm_source=rss) by Carl Sagan (⭐️4.37)
 - [Superior: The Return of Race Science](https://www.goodreads.com/review/show/5185724578?utm_medium=api&utm_source=rss) by Angela Saini (⭐️4.23)
 - [The Courage to Be Disliked: How to Free Yourself, Change your Life and Achieve Real Happiness](https://www.goodreads.com/review/show/5163912949?utm_medium=api&utm_source=rss) by Ichiro Kishimi (⭐️4.01)
-- [Behave: The Biology of Humans at Our Best and Worst](https://www.goodreads.com/review/show/5163914631?utm_medium=api&utm_source=rss) by Robert M. Sapolsky (⭐️4.43)
+- [Behave: The Biology of Humans at Our Best and Worst](https://www.goodreads.com/review/show/5163914631?utm_medium=api&utm_source=rss) by Robert M. Sapolsky (⭐️4.42)
 <!-- TOP-FIVE:END -->
 
 <!--More Details: end-->
