@@ -58,7 +58,7 @@
 ### Currently I'm reading
 
 <!-- CURRENT:START -->
-- [Structure and Qur'anic Interpretation: A Study of Symmetry and Coherence in Islam's Holy Text](https://www.goodreads.com/review/show/5457081225?utm_medium=api&utm_source=rss) by Raymond Farrin (⭐️4.21)
+- [What If? Serious Scientific Answers to Absurd Hypothetical Questions (What If?, #1)](https://www.goodreads.com/review/show/5461508481?utm_medium=api&utm_source=rss) by Randall Munroe (⭐️4.13)
 <!-- CURRENT:END -->
 
 ### And these are my top 5 recommendations:
