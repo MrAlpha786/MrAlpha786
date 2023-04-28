@@ -59,7 +59,7 @@
 
 <!-- CURRENT:START -->
 - [How Charts Work: Understand and explain data with confidence](https://www.goodreads.com/review/show/5484902674?utm_medium=api&utm_source=rss) by Alan Smith (⭐️4.88)
-- [Power And Prediction: The Disruptive Economics of Artificial Intelligence](https://www.goodreads.com/review/show/5475726255?utm_medium=api&utm_source=rss) by Ajay Agrawal (⭐️4.27)
+- [Power And Prediction: The Disruptive Economics of Artificial Intelligence](https://www.goodreads.com/review/show/5475726255?utm_medium=api&utm_source=rss) by Ajay Agrawal (⭐️4.26)
 <!-- CURRENT:END -->
 
 ### And these are my top 5 recommendations:
