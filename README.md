@@ -58,7 +58,7 @@
 ### Currently I'm reading
 
 <!-- CURRENT:START -->
-- [How Charts Work: Understand and explain data with confidence](https://www.goodreads.com/review/show/5484902674?utm_medium=api&utm_source=rss) by Alan Smith (⭐️4.88)
+- [How Charts Work: Understand and explain data with confidence](https://www.goodreads.com/review/show/5484902674?utm_medium=api&utm_source=rss) by Alan Smith (⭐️4.83)
 - [Power And Prediction: The Disruptive Economics of Artificial Intelligence](https://www.goodreads.com/review/show/5475726255?utm_medium=api&utm_source=rss) by Ajay Agrawal (⭐️4.28)
 <!-- CURRENT:END -->
 
