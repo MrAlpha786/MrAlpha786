@@ -65,7 +65,7 @@
 ### And these are my top 5 recommendations:
 
 <!-- TOP-FIVE:START -->
-- [Cosmos](https://www.goodreads.com/review/show/5185708367?utm_medium=api&utm_source=rss) by Carl Sagan (⭐️4.38)
+- [Cosmos](https://www.goodreads.com/review/show/5185708367?utm_medium=api&utm_source=rss) by Carl Sagan (⭐️4.37)
 - [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/review/show/5163920324?utm_medium=api&utm_source=rss) by James Clear (⭐️4.37)
 - [Superior: The Return of Race Science](https://www.goodreads.com/review/show/5185724578?utm_medium=api&utm_source=rss) by Angela Saini (⭐️4.24)
 - [The Courage to Be Disliked: How to Free Yourself, Change your Life and Achieve Real Happiness](https://www.goodreads.com/review/show/5163912949?utm_medium=api&utm_source=rss) by Ichiro Kishimi (⭐️4.01)
