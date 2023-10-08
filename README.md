@@ -58,8 +58,7 @@
 ### Currently I'm reading
 
 <!-- CURRENT:START -->
-- [How Charts Work: Understand and explain data with confidence](https://www.goodreads.com/review/show/5484902674?utm_medium=api&utm_source=rss) by Alan Smith (⭐️4.8)
-- [Power And Prediction: The Disruptive Economics of Artificial Intelligence](https://www.goodreads.com/review/show/5475726255?utm_medium=api&utm_source=rss) by Ajay Agrawal (⭐️4.27)
+- [A Study in Scarlet (Sherlock Holmes, #1)](https://www.goodreads.com/review/show/5891920953?utm_medium=api&utm_source=rss) by Arthur Conan Doyle (⭐️4.17)
 <!-- CURRENT:END -->
 
 ### And these are my top 5 recommendations:
