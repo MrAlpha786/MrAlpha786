@@ -58,7 +58,7 @@
 ### Currently I'm reading
 
 <!-- CURRENT:START -->
-- [A Study in Scarlet (Sherlock Holmes, #1)](https://www.goodreads.com/review/show/5891920953?utm_medium=api&utm_source=rss) by Arthur Conan Doyle (⭐️4.17)
+- [The Sign of Four (Sherlock Holmes, #2)](https://www.goodreads.com/review/show/5922750557?utm_medium=api&utm_source=rss) by Arthur Conan Doyle (⭐️3.92)
 <!-- CURRENT:END -->
 
 ### And these are my top 5 recommendations:
