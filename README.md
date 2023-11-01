@@ -58,7 +58,7 @@
 ### Currently I'm reading
 
 <!-- CURRENT:START -->
-- [The Sign of Four (Sherlock Holmes, #2)](https://www.goodreads.com/review/show/5922750557?utm_medium=api&utm_source=rss) by Arthur Conan Doyle (⭐️3.92)
+- [The Adventures of Sherlock Holmes (Sherlock Holmes, #3)](https://www.goodreads.com/review/show/5945249209?utm_medium=api&utm_source=rss) by Arthur Conan Doyle (⭐️4.32)
 <!-- CURRENT:END -->
 
 ### And these are my top 5 recommendations:
