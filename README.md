@@ -58,7 +58,7 @@
 ### Currently I'm reading
 
 <!-- CURRENT:START -->
-- [The Adventures of Sherlock Holmes (Sherlock Holmes, #3)](https://www.goodreads.com/review/show/5945249209?utm_medium=api&utm_source=rss) by Arthur Conan Doyle (⭐️4.32)
+- [Stolen Focus: Why You Can't Pay Attention- and How to Think Deeply Again](https://www.goodreads.com/review/show/5975874494?utm_medium=api&utm_source=rss) by Johann Hari (⭐️4.24)
 <!-- CURRENT:END -->
 
 ### And these are my top 5 recommendations:
