@@ -68,7 +68,7 @@
 - [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/review/show/5163920324?utm_medium=api&utm_source=rss) by James Clear (⭐️4.36)
 - [Superior: The Return of Race Science](https://www.goodreads.com/review/show/5185724578?utm_medium=api&utm_source=rss) by Angela Saini (⭐️4.24)
 - [The Courage to Be Disliked: How to Free Yourself, Change your Life and Achieve Real Happiness](https://www.goodreads.com/review/show/5163912949?utm_medium=api&utm_source=rss) by Ichiro Kishimi (⭐️3.98)
-- [Behave: The Biology of Humans at Our Best and Worst](https://www.goodreads.com/review/show/5163914631?utm_medium=api&utm_source=rss) by Robert M. Sapolsky (⭐️4.42)
+- [Behave: The Biology of Humans at Our Best and Worst](https://www.goodreads.com/review/show/5163914631?utm_medium=api&utm_source=rss) by Robert M. Sapolsky (⭐️4.41)
 <!-- TOP-FIVE:END -->
 
 <!--More Details: end-->
