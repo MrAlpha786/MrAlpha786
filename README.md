@@ -58,7 +58,7 @@
 ### Currently I'm reading
 
 <!-- CURRENT:START -->
-- [Four Thousand Weeks: Time Management for Mortals](https://www.goodreads.com/review/show/6016270047?utm_medium=api&utm_source=rss) by Oliver Burkeman (⭐️4.23)
+- [The 1-Page Marketing Plan: Get New Customers, Make More Money, And Stand out From The Crowd](https://www.goodreads.com/review/show/6519472170?utm_medium=api&utm_source=rss) by Allan Dib (⭐️4.27)
 <!-- CURRENT:END -->
 
 ### And these are my top 5 recommendations:
