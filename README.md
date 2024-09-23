@@ -58,6 +58,7 @@
 ### Currently I'm reading
 
 <!-- CURRENT:START -->
+- [The Illustrated Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time](https://www.goodreads.com/review/show/6866645296?utm_medium=api&utm_source=rss) by Dava Sobel (⭐️4.07)
 - [The 1-Page Marketing Plan: Get New Customers, Make More Money, And Stand out From The Crowd](https://www.goodreads.com/review/show/6519472170?utm_medium=api&utm_source=rss) by Allan Dib (⭐️4.27)
 <!-- CURRENT:END -->
 
