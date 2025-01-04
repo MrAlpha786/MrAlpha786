@@ -58,7 +58,7 @@
 ### Currently I'm reading
 
 <!-- CURRENT:START -->
-- [How Big Things Get Done: The Surprising Factors That Determine the Fate of Every Project, from Home Renovations to Space Exploration and Everything In Between](https://www.goodreads.com/review/show/7157814795?utm_medium=api&utm_source=rss) by Bent Flyvbjerg (⭐️4.28)
+- [How Big Things Get Done: The Surprising Factors That Determine the Fate of Every Project, from Home Renovations to Space Exploration and Everything In Between](https://www.goodreads.com/review/show/7157814795?utm_medium=api&utm_source=rss) by Bent Flyvbjerg (⭐️4.29)
 - [Discipline Is Destiny: The Power of Self-Control](https://www.goodreads.com/review/show/6016273635?utm_medium=api&utm_source=rss) by Ryan Holiday (⭐️4.25)
 - [The 1-Page Marketing Plan: Get New Customers, Make More Money, And Stand out From The Crowd](https://www.goodreads.com/review/show/6519472170?utm_medium=api&utm_source=rss) by Allan Dib (⭐️4.28)
 <!-- CURRENT:END -->
