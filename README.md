@@ -40,7 +40,7 @@
 <!-- CURRENT:START -->
 - [Frankenstein](https://www.goodreads.com/review/show/7238483923?utm_medium=api&utm_source=rss) by Mary Wollstonecraft Shelley (⭐️3.73)
 - [Discipline Is Destiny: The Power of Self-Control](https://www.goodreads.com/review/show/6016273635?utm_medium=api&utm_source=rss) by Ryan Holiday (⭐️4.24)
-- [The 1-Page Marketing Plan: Get New Customers, Make More Money, And Stand out From The Crowd](https://www.goodreads.com/review/show/6519472170?utm_medium=api&utm_source=rss) by Allan Dib (⭐️4.27)
+- [The 1-Page Marketing Plan: Get New Customers, Make More Money, And Stand out From The Crowd](https://www.goodreads.com/review/show/6519472170?utm_medium=api&utm_source=rss) by Allan Dib (⭐️4.28)
 <!-- CURRENT:END -->
 
 ### And these are my top 5 recommendations:
