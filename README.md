@@ -38,7 +38,7 @@
 ### Currently I'm reading
 
 <!-- CURRENT:START -->
-- [Outliers: The Story of Success](https://www.goodreads.com/review/show/7839955914?utm_medium=api&utm_source=rss) by Malcolm Gladwell (⭐️4.19)
+- [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking](https://www.goodreads.com/review/show/7890955840?utm_medium=api&utm_source=rss) by Sönke Ahrens (⭐️3.94)
 <!-- CURRENT:END -->
 
 ### And these are my top 5 recommendations:
