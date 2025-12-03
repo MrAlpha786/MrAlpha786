@@ -38,7 +38,7 @@
 ### Currently I'm reading
 
 <!-- CURRENT:START -->
-- [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking](https://www.goodreads.com/review/show/7890955840?utm_medium=api&utm_source=rss) by Sönke Ahrens (⭐️3.97)
+- [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking](https://www.goodreads.com/review/show/7890955840?utm_medium=api&utm_source=rss) by Sönke Ahrens (⭐️3.96)
 <!-- CURRENT:END -->
 
 ### And these are my top 5 recommendations:
