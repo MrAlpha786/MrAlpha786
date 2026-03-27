@@ -38,7 +38,7 @@
 ### Currently I'm reading
 
 <!-- CURRENT:START -->
-- [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking](https://www.goodreads.com/review/show/7890955840?utm_medium=api&utm_source=rss) by Sönke Ahrens (⭐️3.96)
+- [The Man Who Mistook His Wife for a Hat and Other Clinical Tales](https://www.goodreads.com/review/show/8469457900?utm_medium=api&utm_source=rss) by Oliver Sacks (⭐️4.08)
 <!-- CURRENT:END -->
 
 ### And these are my top 5 recommendations:
